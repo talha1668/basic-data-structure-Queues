@@ -1,4 +1,4 @@
-# basic-data-structure(Queues-Array-String)
+# basic-data-structure(Queues)
 This is the basic data structure implementation which includes queues,string and Array 
 # Queue implementation in Python
 
